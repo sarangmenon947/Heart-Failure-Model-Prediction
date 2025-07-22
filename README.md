@@ -19,9 +19,4 @@ This repository provides implementations and experiments of various ML algorithm
   - Random Forest
   - K‑Nearest Neighbors (KNN)
   - LightGBM / CatBoost (depending on your implementation)
-- 🚀 Model evaluation: accuracy, precision, recall, F1-score, confusion matrix, ROC curves
-
-## Results
-
-- Random Forest / LightGBM / CatBoost often scores ~90–91% accuracy
-- KNN also demonstrates strong performance (~89% accuracy) :contentReference[oaicite:1]{index=1}
+- Model evaluation: accuracy, precision, recall, F1-score, confusion matrix, ROC curves
